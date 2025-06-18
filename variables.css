@@ -1,0 +1,69 @@
+:root {
+    /* Colors */
+    --primary-color: #1a73e8;
+    --secondary-color: #34a853;
+    --dark-color: #202124;
+    --light-color: #ffffff;
+    --gray-color: #5f6368;
+    --accent-color: #fbbc04;
+    --success-color: #34a853;
+    --warning-color: #fbbc04;
+    --danger-color: #ea4335;
+    --border-color: #e0e0e0;
+    --background-color: #f8f9fa;
+    --footer-bg: #002b5c;
+    --footer-text: #ccc;
+    --footer-accent: #0dc100;
+    --footer-border: #08457e;
+
+    /* Typography */
+    --font-family: 'Poppins', sans-serif;
+    --font-size-small: 0.875rem;
+    --font-size-normal: 1rem;
+    --font-size-medium: 1.25rem;
+    --font-size-large: 1.5rem;
+    --font-size-xlarge: 2rem;
+    --font-size-xxlarge: 2.5rem;
+
+    /* Spacing */
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.5rem;
+    --spacing-xl: 2rem;
+    --spacing-xxl: 3rem;
+
+    /* Border Radius */
+    --border-radius-sm: 4px;
+    --border-radius-md: 8px;
+    --border-radius-lg: 12px;
+    --border-radius-xl: 20px;
+    --border-radius-pill: 25px;
+
+    /* Shadows */
+    --shadow-sm: 0 2px 5px rgba(0,0,0,0.1);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+    --shadow-lg: 0 8px 24px rgba(0,0,0,0.1);
+
+    /* Transitions */
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease;
+    --transition-slow: 0.5s ease;
+
+    /* Layout */
+    --header-height: 80px;
+    --container-max-width: 1200px;
+    --container-padding: 20px;
+
+    /* Container Widths */
+    --container-sm: 540px;
+    --container-md: 720px;
+    --container-lg: 960px;
+    --container-xl: 1140px;
+    
+    /* Z-index layers */
+    --z-index-modal: 1000;
+    --z-index-overlay: 900;
+    --z-index-dropdown: 800;
+    --z-index-header: 700;
+} 
